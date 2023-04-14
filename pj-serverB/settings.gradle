@@ -1,3 +1,0 @@
-rootProject.name = 'pj-serverB'
-
-includeFlat 'pj-common'

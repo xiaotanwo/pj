@@ -1,0 +1,5 @@
+rootProject.name = 'pj'
+
+include 'pj-common'
+include 'pj-serverA'
+include 'pj-serverB'
